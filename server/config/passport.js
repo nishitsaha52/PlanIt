@@ -4,14 +4,14 @@ const FacebookStrategy = require("passport-facebook").Strategy;
 const passport = require("passport");
 const User = require("../models/User"); // Adjust the path as needed
 
-const GOOGLE_CLIENT_ID = "123705957832-9anaatocmu5jhb29l4k3ol8mk3un81uk.apps.googleusercontent.com";
-const GOOGLE_CLIENT_SECRET = "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";
+//const GOOGLE_CLIENT_ID = "123705957832-9anaatocmu5jhb29l4k3ol8mk3un81uk.apps.googleusercontent.com";
+//const GOOGLE_CLIENT_SECRET = "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";
 
-const GITHUB_CLIENT_ID = "0f08a441f9de8ad00933";
-const GITHUB_CLIENT_SECRET = "6dc8ce00957cd02d1cdbeddcc46ec41f4dac94e2";
+//const GITHUB_CLIENT_ID = "0f08a441f9de8ad00933";
+//const GITHUB_CLIENT_SECRET = "6dc8ce00957cd02d1cdbeddcc46ec41f4dac94e2";
 
-const FACEBOOK_CLIENT_ID = "519046297201499";
-const FACEBOOK_CLIENT_SECRET = "cf2fbea2ff6804068ff193d30b066213";
+//const FACEBOOK_CLIENT_ID = "519046297201499";
+//const FACEBOOK_CLIENT_SECRET = "cf2fbea2ff6804068ff193d30b066213";
 
 // GitHub Strategy
 passport.use(
