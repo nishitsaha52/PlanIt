@@ -33,7 +33,7 @@ To get the platform up and running locally, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/nishitsaha52/PlanItgit
+   git clone https://github.com/nishitsaha52/PlanIt.git
    cd PlantIt
    ```
 
@@ -81,14 +81,5 @@ To get the platform up and running locally, follow these steps:
 
 3. **Track Analytics**  
    Get insights into ticket sales, attendees, and more to make data-driven event decisions.
-
-## 🤝 Contributing
-
-We welcome contributions! Here’s how you can help:
-1. Fork the repo
-2. Create a new branch for your feature: `git checkout -b feature-name`
-3. Commit changes: `git commit -m 'Add feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Open a pull request!
 
 ---
